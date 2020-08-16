@@ -35,6 +35,7 @@
       "import/prefer-default-export": "off",
       "prettier/prettier": "error",
       "camelcase": "off",
+      "@typescript-eslint/camelcase": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
