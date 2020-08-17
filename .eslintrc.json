@@ -36,6 +36,7 @@
       "prettier/prettier": "error",
       "camelcase": "off",
       "@typescript-eslint/camelcase": "off",
+      "import/no-duplicates": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
